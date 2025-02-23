@@ -131,6 +131,7 @@
     <ClCompile Include="CalculatorMain.c" />
     <ClCompile Include="StaticVar.c" />
     <ClCompile Include="Stringfunction.c" />
+    <ClCompile Include="UpperCase.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="calculator.h" />
