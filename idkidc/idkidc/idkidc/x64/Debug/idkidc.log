@@ -1,0 +1,11 @@
+﻿  GlobalVar.c
+C:\cworks\idkidc\idkidc\GlobalVar.c(6,14): warning C4013: 'add10'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  LocalVar.c
+C:\cworks\idkidc\idkidc\LocalVar.c(5,14): warning C4013: 'sum10'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+C:\cworks\idkidc\idkidc\LocalVar.c(17,1): warning C4716: 'sum10': 값을 반환해야 합니다.
+GlobalVar.obj : error LNK2005: main이(가) function3.obj에 이미 정의되어 있습니다.
+LocalVar.obj : error LNK2005: main이(가) function3.obj에 이미 정의되어 있습니다.
+stuff.obj : error LNK2005: main이(가) function3.obj에 이미 정의되어 있습니다.
+function3.obj : error LNK2019: myabsmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\cworks\idkidc\idkidc\x64\Debug\idkidc.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

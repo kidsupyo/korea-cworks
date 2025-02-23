@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\idkidc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|C:\\cworks\\idkidc\\idkidc\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|solutionrelative:idkidc\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|C:\\cworks\\idkidc\\idkidc\\stuff.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|solutionrelative:idkidc\\stuff.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|C:\\cworks\\idkidc\\idkidc\\function3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|solutionrelative:idkidc\\function3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|C:\\cworks\\idkidc\\idkidc\\GlobalVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|solutionrelative:idkidc\\GlobalVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|C:\\cworks\\idkidc\\idkidc\\LocalVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D06E42C8-96E5-4886-BA81-F06B5A6FF3AF}|idkidc\\idkidc.vcxproj|solutionrelative:idkidc\\LocalVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticVar.c",
+              "DocumentMoniker": "C:\\cworks\\idkidc\\idkidc\\StaticVar.c",
+              "RelativeDocumentMoniker": "idkidc\\StaticVar.c",
+              "ToolTip": "C:\\cworks\\idkidc\\idkidc\\StaticVar.c",
+              "RelativeToolTip": "idkidc\\StaticVar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T00:12:48.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalVar.c",
+              "DocumentMoniker": "C:\\cworks\\idkidc\\idkidc\\LocalVar.c",
+              "RelativeDocumentMoniker": "idkidc\\LocalVar.c",
+              "ToolTip": "C:\\cworks\\idkidc\\idkidc\\LocalVar.c",
+              "RelativeToolTip": "idkidc\\LocalVar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T02:42:09.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalVar.c",
+              "DocumentMoniker": "C:\\cworks\\idkidc\\idkidc\\GlobalVar.c",
+              "RelativeDocumentMoniker": "idkidc\\GlobalVar.c",
+              "ToolTip": "C:\\cworks\\idkidc\\idkidc\\GlobalVar.c",
+              "RelativeToolTip": "idkidc\\GlobalVar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T02:33:03.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "function3.c",
+              "DocumentMoniker": "C:\\cworks\\idkidc\\idkidc\\function3.c",
+              "RelativeDocumentMoniker": "idkidc\\function3.c",
+              "ToolTip": "C:\\cworks\\idkidc\\idkidc\\function3.c",
+              "RelativeToolTip": "idkidc\\function3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T02:20:30.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stuff.c",
+              "DocumentMoniker": "C:\\cworks\\idkidc\\idkidc\\stuff.c",
+              "RelativeDocumentMoniker": "idkidc\\stuff.c",
+              "ToolTip": "C:\\cworks\\idkidc\\idkidc\\stuff.c",
+              "RelativeToolTip": "idkidc\\stuff.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T02:07:42.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

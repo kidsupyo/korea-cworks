@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\cworks\\Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9814AEBC-469C-42CF-B807-26CFC310E66D}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9814AEBC-469C-42CF-B807-26CFC310E66D}|Basic\\Basic.vcxproj|solutionrelative:Basic\\StaticVar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9814AEBC-469C-42CF-B807-26CFC310E66D}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9814AEBC-469C-42CF-B807-26CFC310E66D}|Basic\\Basic.vcxproj|solutionrelative:Basic\\input.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9814AEBC-469C-42CF-B807-26CFC310E66D}|Basic\\Basic.vcxproj|C:\\cworks\\Basic\\Basic\\Inputoutput.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9814AEBC-469C-42CF-B807-26CFC310E66D}|Basic\\Basic.vcxproj|solutionrelative:Basic\\Inputoutput.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticVar.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\StaticVar.c",
+              "RelativeDocumentMoniker": "Basic\\StaticVar.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\StaticVar.c",
+              "RelativeToolTip": "Basic\\StaticVar.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T00:22:10.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\input.c",
+              "RelativeDocumentMoniker": "Basic\\input.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\input.c",
+              "RelativeToolTip": "Basic\\input.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T00:44:50.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inputoutput.c",
+              "DocumentMoniker": "C:\\cworks\\Basic\\Basic\\Inputoutput.c",
+              "RelativeDocumentMoniker": "Basic\\Inputoutput.c",
+              "ToolTip": "C:\\cworks\\Basic\\Basic\\Inputoutput.c",
+              "RelativeToolTip": "Basic\\Inputoutput.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-22T00:24:47.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
