@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="calculator.c" />
     <ClCompile Include="CalculatorMain.c" />
+    <ClCompile Include="Rand.c" />
     <ClCompile Include="StaticVar.c" />
     <ClCompile Include="Stringfunction.c" />
     <ClCompile Include="UpperCase.c" />

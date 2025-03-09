@@ -1,7 +1,7 @@
 # include <stdio.h>
 # include <string.h>
 void UpperCase();
-int main() {
+int main_1() {
 
 	char buf[] = " I am a student";
 
